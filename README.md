@@ -2,6 +2,8 @@
 
 Drivers developed for ShieldBuddy Aurix_TC37x
 
-- UART
-- MPU 6050
 - DDSM 115
+- MPU 6050
+- UART
+
+
